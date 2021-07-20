@@ -1,5 +1,5 @@
 # MyScope
-learning development (Java, Python and more)
+Learning development (Java, Python and more)
 
 
 Completed courses at computing science (Helsinki Uni):
